@@ -1,11 +1,8 @@
 # Samuel Wang
 
-A software engineer in web app development.  
+Hi, I'm a software engineer, I have over a decade of experience in Web development.  
 
-I love programming and designing software architecture, it's my job and interest.  
-
-Vist my LinkedIn to view my career: https://www.linkedin.com/in/samuelwang919/.  
-Or, vist my Medium to read my stories: https://medium.com/@chieh0919.
+You can visit my LinkedIn to view my career: https://www.linkedin.com/in/samuelwang919/.  
 
 <!--
 **SamuelWang/SamuelWang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
