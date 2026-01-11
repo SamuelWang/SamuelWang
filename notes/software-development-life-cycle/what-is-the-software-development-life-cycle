@@ -1,0 +1,52 @@
+# What is the Software Development Life Cycle (SDLC)?
+
+The SDLC is a structured framework used by engineering teams to design, develop, and test high-quality software. The goal is to produce software that meets or exceeds customer expectations within time and cost estimates.
+
+Think of it as the "blueprint" for the entire lifespan of a software product, ensuring the process is systematic rather than chaotic.
+
+## The Core Phases of the SDLC
+
+While specific methodologies (like Agile or Waterfall) change *how* we move through these stages, the fundamental activities remain the same:
+
+1. **Requirement Analysis & Planning**  
+    * **Goal:** Define *what* we are building and *why*.
+    * **Activities:** Stakeholder interviews, market research, and feasibility studie(technical, operational, and economic).
+    * **Outcome:** A Software Requirement Specification (SRS) document or a backlog of User Stories.
+
+2. **System Design**
+    * **Goal:** Define *how* we will build it.
+    * **Activities:** Creating High-Level Design (HLD) for architecture and Low-Level Design (LLD) for component logic. This includes database schema design, API specifications, and choosing the tech stack.
+    * **Outcome:** Design Documents (DDS) and architectural diagrams.
+
+3. **Implementation (Coding)**
+    * **Goal:** Translate design into executable code.
+    * **Activities:** Developers write code based on the design documents. This is usually the longest phase.
+    * **Best Practice:** Adhere to coding standards, perform code reviews, and use version control (e.g., Git).
+
+4. **Testing**
+    * **Goal:** Ensure quality and bug-free functionality.
+    * **Activities:** Unit testing, integration testing, system testing, and User Acceptance Testing (UAT).
+    * **Security Note:** Modern teams integrate security testing here (or even earlier) to catch vulnerabilities like SQL injection or XSS before deployment.
+
+5. **Deployment**
+    * **Goal:** Make the software available to users.
+    * **Activities:** Releasing the application to a production environment. This can be complex (staged rollouts, blue-green deployment) or simple, depending on the scale.
+    * **Tools:** CI/CD pipelines (Jenkins, GitHub Actions) often automate this.
+
+6. **Maintenance & Operations**
+    * **Goal:** Keep the software running and improve it over time.
+    * **Activities:** Bug fixing, patching, monitoring performance, and upgrading libraries.
+
+## Modern vs. Traditional Approaches
+
+It is important to note that the SDLC is not a "one size fits all" process.
+
+* **Waterfall:** A linear model where one phase must finish before the next begins.
+  * *Pros:* Simple, disciplined.
+  * *Cons:* Inflexible; difficult to accommodate changes once development starts.
+
+* **Agile:** An iterative approach where the SDLC phases are cycled through repeatedly in small increments (Sprints).
+  * *Pros:* Highly adaptable to change, faster feedback loops.
+  * *Cons:* Can lack documentation; requires experienced teams.
+
+* **DevOps:** A cultural shift that merges Development and Operations, emphasizing automation and continuous delivery.
