@@ -8,7 +8,7 @@ Think of it as the "blueprint" for the entire lifespan of a software product, en
 
 While specific methodologies (like Agile or Waterfall) change *how* we move through these stages, the fundamental activities remain the same:
 
-1. **Requirement Analysis & Planning**  
+1. **Requirement Planning & Analysis**  
     * **Goal:** Define *what* we are building and *why*.
     * **Activities:** Stakeholder interviews, market research, and feasibility studie(technical, operational, and economic).
     * **Outcome:** A Software Requirement Specification (SRS) document or a backlog of User Stories.
