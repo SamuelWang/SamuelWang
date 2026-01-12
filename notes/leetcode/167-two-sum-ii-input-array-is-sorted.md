@@ -2,7 +2,7 @@
 
 In the landscape of algorithmic interviews and systems optimization, **LeetCode 167: Two Sum II - Input Array Is Sorted** is a classic study in how data structure properties—specifically strict ordering—dictate our algorithm choice.
 
-Unlike the standard "Two Sum" where we trade space for time using a Hash Map, this variation constrains us to **constant extra space** ($O(1)$) but gives us a powerful asset: the input array is **sorted**.
+Unlike the standard "Two Sum" where we trade space for time using a Hash Map, this variation constrains us to **constant extra space** ($`O(1)`$) but gives us a powerful asset: the input array is **sorted**.
 
 Here is the architectural breakdown and the Go implementation.
 
@@ -13,7 +13,7 @@ Here is the architectural breakdown and the Go implementation.
 **Constraints & Invariants:**
 
 1. **Sorted Input:** The array is sorted in non-decreasing order. This is the critical architectural driver.
-2. **Space Constraint:** We must use $O(1)$ extra space. This rules out Hash Maps (which cost $O(n)$ space).
+2. **Space Constraint:** We must use $`O(1)`$ extra space. This rules out Hash Maps (which cost $`O(n)`$ space).
 3. **Determinism:** There is exactly one solution.
 
 ## 2. Algorithmic Strategy: Two Pointers
@@ -32,7 +32,7 @@ We calculate the `currentSum = numbers[left] + numbers[right]`.
 * **Case B (`currentSum > target`):** The sum is too large. Since `numbers` is sorted, the only way to reduce the sum is to move to a smaller number. We must decrement the `right` pointer.
 * **Case C (`currentSum < target`):** The sum is too small. The only way to increase the sum is to pick a larger number. We must increment the `left` pointer.
 
-This approach guarantees we check the necessary pairs in $O(n)$ time complexity, effectively pruning invalid pairs without calculating them.
+This approach guarantees we check the necessary pairs in $`O(n)`$ time complexity, effectively pruning invalid pairs without calculating them.
 
 ## 3. Implementation (Golang)
 
@@ -77,24 +77,24 @@ func twoSum(numbers []int, target int) []int {
 
 | Metric | Complexity | Explanation |
 | --- | --- | --- |
-| **Time Complexity** | $O(n)$ | In the worst case, the pointers meet somewhere in the middle. We touch each element at most once. |
-| **Space Complexity** | $O(1)$ | We only store two integer variables (`left` and `right`), regardless of input size. |
+| **Time Complexity** | $`O(n)`$ | In the worst case, the pointers meet somewhere in the middle. We touch each element at most once. |
+| **Space Complexity** | $`O(1)`$ | We only store two integer variables (`left` and `right`), regardless of input size. |
 
 **Why not Binary Search?**
 You *could* iterate through the array and perform a binary search for the complement (`target - current_val`) for each element.
 
-* **Time:** $O(n \log n)$
-* **Space:** $O(1)$
-* **Verdict:** This is acceptable but sub-optimal compared to the $O(n)$ Two Pointer approach.
+* **Time:** $`O(n \log n)`$
+* **Space:** $`O(1)`$
+* **Verdict:** This is acceptable but sub-optimal compared to the $`O(n)`$ Two Pointer approach.
 
 **Why not a Hash Map (Standard Two Sum)?**
 
-* **Time:** $O(n)$
-* **Space:** $O(n)$
+* **Time:** $`O(n)`$
+* **Space:** $`O(n)`$
 * **Verdict:** This violates the constant space constraint required by the problem statement.
 
 ### 5. Principal Engineer Takeaway
 
 > **"Read the constraints before you choose the data structure."**
 
-In system design and algorithm challenges, constraints (like "sorted" or "limited memory") are not just details; they are hints pointing toward the optimal solution. In production, using a Hash Map here would waste memory. Using Brute Force ($O(n^2)$) would waste CPU. The Two Pointer approach respects the data's natural ordering to achieve maximum efficiency.
+In system design and algorithm challenges, constraints (like "sorted" or "limited memory") are not just details; they are hints pointing toward the optimal solution. In production, using a Hash Map here would waste memory. Using Brute Force ($`O(n^2)`$) would waste CPU. The Two Pointer approach respects the data's natural ordering to achieve maximum efficiency.
