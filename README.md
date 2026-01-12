@@ -2,7 +2,7 @@
 
 Hi, I'm a software engineer, I have over a decade of experience in Web development.  
 
-You can visit my LinkedIn to view my career: https://www.linkedin.com/in/samuelwang919/.  
+Here is my LinkedIn: https://www.linkedin.com/in/samuelwang919/.  
 
 <!--
 **SamuelWang/SamuelWang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
