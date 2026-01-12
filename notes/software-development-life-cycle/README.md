@@ -5,3 +5,4 @@
 ## Requirement Planning & Analysis
 
 [Introduce Requirement Planning & Analysis](./requirement-planning-and-analysis/introduce-requirement-planning-and-analysis.md)
+[Writing a Software Requirements Specification](./requirement-planning-and-analysis/write-a-software-requirements-specification.md)
