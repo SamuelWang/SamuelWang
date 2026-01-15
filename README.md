@@ -9,9 +9,9 @@ Here is my LinkedIn: https://www.linkedin.com/in/samuelwang919/.
 I'm trying to place my learning notes in this repository.  
 These notes may write by myself or by AI. If the note is wrote by AI, I will review it and modify it if need.
 
-[Software Development Life Cycle](./notes/software-development-life-cycle/README.md)
-[LeetCode](./notes/leetcode/README.md)
-[Mathematics](./notes/mathematics/README.md)
+[Software Development Life Cycle](./notes/software-development-life-cycle/README.md)  
+[LeetCode](./notes/leetcode/README.md)  
+[Mathematics](./notes/mathematics/README.md)  
 
 <!--
 **SamuelWang/SamuelWang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
