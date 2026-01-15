@@ -1,4 +1,4 @@
-# 1. Two Sum
+# LeetCode 1: Two Sum
 
 Let's break down LeetCode Problem #1, **Two Sum**, using Go. This is a foundational problem that tests your ability to use data structures effectively to optimize performance.
 
