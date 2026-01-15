@@ -11,6 +11,7 @@ These notes may write by myself or by AI. If the note is wrote by AI, I will rev
 
 [Software Development Life Cycle](./notes/software-development-life-cycle/README.md)  
 [Data Structures and Algorithms](./notes/data-structures-and-algorithms/README.md)  
+[LeetCode](./notes/leetcode/README.md)  
 [Mathematics](./notes/mathematics/README.md)  
 
 <!--
