@@ -10,7 +10,7 @@ I'm trying to place my learning notes in this repository.
 These notes may write by myself or by AI. If the note is wrote by AI, I will review it and modify it if need.
 
 [Software Development Life Cycle](./notes/software-development-life-cycle/README.md)  
-[LeetCode](./notes/leetcode/README.md)  
+[Data Structures and Algorithms](./notes/data-structures-and-algorithms/README.md)  
 [Mathematics](./notes/mathematics/README.md)  
 
 <!--
