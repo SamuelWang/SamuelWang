@@ -3,6 +3,7 @@
 ## Practice Problems for Data Structures
 
 - [Arrays](./practice/arrays.md)
+- [Linked Lists](./practice/linked-lists.md)
 
 ## Problem Solutions
 
