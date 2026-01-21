@@ -1,4 +1,4 @@
-# LeetCode Arrays - Patterns and Scalability
+# LeetCode Arrays Problems
 
 Arrays are the bedrock of system design—they are all about **contiguous memory allocation**, which translates to CPU cache friendliness and predictable access times. When we optimize array operations, we are often optimizing for data locality, a critical concept in high-performance computing and low-latency systems.
 
