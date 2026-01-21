@@ -9,6 +9,7 @@ Here is my LinkedIn: https://www.linkedin.com/in/samuelwang919/.
 I have written my learning notes in this repository.  
 These notes may write by myself or by AI. If the note is wrote by AI, I will review it and modify it if need.
 
+[Golang](./notes/golang/README.md)  
 [Software Development Life Cycle](./notes/software-development-life-cycle/README.md)  
 [Data Structures and Algorithms](./notes/data-structures-and-algorithms/README.md)  
 [Cybersecurity](./notes/cybersecurity/README.md)  
