@@ -2,4 +2,4 @@
 
 ## Arrays
 
-[Deep Dive into Arrays](./arrays/deep-dive-into-arrays.md)
+- [Deep Dive into Arrays](./arrays/deep-dive-into-arrays.md)
