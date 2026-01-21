@@ -8,3 +8,7 @@
 ## Arrays
 
 - [Deep Dive into Arrays](./arrays/deep-dive-into-arrays.md)
+
+## Linked Lists
+
+- [Deep Dive into Linked Lists](./linked-lists/deep-dive-into-linked-lists.md)
