@@ -3,6 +3,7 @@
 ## Introduction
 
 - [What are Data Structures?](./introduction/what-are-data-structures.md)
+- [What are Algorithms?](./introduction/what-are-algorithms.md)
 
 ## Arrays
 
