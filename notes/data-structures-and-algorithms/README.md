@@ -12,6 +12,7 @@
 ## Linked Lists
 
 - [Deep Dive into Linked Lists](./linked-lists/deep-dive-into-linked-lists.md)
+- [Implementing Linked List Data Structures in Go](./linked-lists/implementing-linked-list-data-structures-in-go.md)
 
 ## Queues
 
