@@ -56,3 +56,31 @@ When reviewing array solutions, I look for **Space Complexity**.
 * **Senior Dev:** Uses a Hash Map ($`O(N)`$ space/time).
 * **Staff/Principal:** Asks if the input array is sorted. If so, they switch to Two Pointers to achieve $`O(N)`$ time with **$`O(1)`$ space**. In embedded systems or massive data pipelines, saving that memory is the difference between a system that crashes and one that scales.
 
+## Suggested Learning Path
+
+For a structured approach to mastering arrays, follow this path. It's designed to build your skills progressively, from basic manipulation to advanced techniques.
+
+1.  **Start with the basics:** Get comfortable with iteration and simple memory trade-offs.
+    *   [Two Sum](https://leetcode.com/problems/two-sum/)
+    *   [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
+    *   [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+
+2.  **Learn the Two Pointers technique:** This is a fundamental pattern for optimizing array problems.
+    *   [Move Zeroes](https://leetcode.com/problems/move-zeroes/)
+    *   [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
+
+3.  **Master Sliding Windows:** Essential for problems involving contiguous subarrays or streams of data.
+    *   [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
+    *   [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+
+4.  **Tackle more complex scenarios:** These problems require combining patterns or thinking about pre-computation.
+    *   [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
+    *   [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)
+
+5.  **Move to 2D Arrays (Matrices):** Apply your knowledge to a second dimension.
+    *   [Rotate Image](https://leetcode.com/problems/rotate-image/)
+    *   [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
+
+6.  **Challenge yourself with advanced problems:** These often involve clever data structures or algorithms.
+    *   [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)
+    *   [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)
