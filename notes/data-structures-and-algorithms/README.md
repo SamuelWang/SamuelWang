@@ -12,3 +12,7 @@
 ## Linked Lists
 
 - [Deep Dive into Linked Lists](./linked-lists/deep-dive-into-linked-lists.md)
+
+## Queues
+
+- [Deep Dive into Queues](./queues/deep-dive-into-queues.md)
