@@ -22,9 +22,16 @@ These problems test the ability to maintain state (`prev`, `curr`, `next`) while
 
 **Key Concepts:** In-place reversal, sub-segment manipulation, and pointer hygiene.
 
+* **[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)** (Easy)
 * **[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)** (Easy)
-* **[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)** (Medium)
+* **[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)** (Medium)
+* **[Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/)** (Medium)
+* **[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)** (Medium)
 * **[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)** (Medium)
+* **[Partition List](https://leetcode.com/problems/partition-list/)** (Medium)
+* **[Reorder List](https://leetcode.com/problems/reorder-list/)** (Medium)
+* **[Remove Duplicates from Sorted List II](httpshttps://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)** (Medium)
+* **[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)** (Medium)
 * **[Rotate List](https://leetcode.com/problems/rotate-list/)** (Medium)
 * **[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)** (Hard)
 
@@ -55,3 +62,15 @@ This category focuses on cloning data structures that have complex internal refe
 **Key Concepts:** Hash Map mapping and node interleaving.
 
 * **[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)** (Medium)
+
+## Suggested Learning Path
+
+- **Begin with fundamentals:** review node structure, traversal, and pointer manipulation.
+- **Phase 1 — Two-pointer problems:** solve *[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)*, *[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)*, *[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)*.
+ - **Phase 2 — Reversal & manipulation:** practice *[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)*, *[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)*, *[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)*, *[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)*, *[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)*.
+ - **Phase 3 — Merging & sorting:** tackle *[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)*, *[Sort List](https://leetcode.com/problems/sort-list/)*, then *[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)*.
+ - **Phase 4 — System-design primitives:** implement *[LRU Cache](https://leetcode.com/problems/lru-cache/)*, *[LFU Cache](https://leetcode.com/problems/lfu-cache/)*, *[Design Browser History](https://leetcode.com/problems/design-browser-history/)* to combine maps and doubly-linked lists.
+ - **Phase 5 — Advanced & deep-copy:** work on *[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)*, *[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)*, and other hard problems.
+- **Practice checklist:** implement each solution, add tests, write time/space complexity, and explain edge cases.
+
+Happy practicing — repeat cycles until you're comfortable with all categories.
