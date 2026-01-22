@@ -4,6 +4,7 @@
 
 - [Arrays](./practice/arrays.md)
 - [Linked Lists](./practice/linked-lists.md)
+- [Queues](./practice/queues.md)
 
 ## Problem Solutions
 
