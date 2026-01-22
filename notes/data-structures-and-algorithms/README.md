@@ -16,3 +16,4 @@
 ## Queues
 
 - [Deep Dive into Queues](./queues/deep-dive-into-queues.md)
+- [Implementing the Queue Data Structure in Go](./queues/implementing-the-queue-data-structure-in-go.md)
