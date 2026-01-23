@@ -7,6 +7,6 @@
 
 ## sqlc and pgx/v5
 
-- [String vs. \*String](./sqlc/string-vs-pointer-string.md)
+- [Handling Strings and pgtype.Text](./sqlc/handling-strings-and-pgtype-text.md)
 - [Handling Dates and Times](./sqlc/handling-dates-and-times.md)
-- [Handling UUIDs](./sqlc/handle-uuid.md)
+- [Handling UUIDs](./sqlc/handling-uuid.md)
