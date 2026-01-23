@@ -9,3 +9,4 @@
 
 - [String vs. \*String](./sqlc/string-vs-pointer-string.md)
 - [Handling Dates and Times](./sqlc/handling-dates-and-times.md)
+- [Handling UUIDs](./sqlc/handle-uuid.md)
