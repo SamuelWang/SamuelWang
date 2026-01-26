@@ -22,4 +22,4 @@
 ## Stacks
 
 - [Deep Dive into Stacks](./stacks/deep-dive-into-stacks.md)
-
+- [Implementing the Stack Data Structure in Go](./stacks/implementing-stack-data-structure-in-go.md)
