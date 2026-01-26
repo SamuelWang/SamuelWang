@@ -23,3 +23,7 @@
 
 - [Deep Dive into Stacks](./stacks/deep-dive-into-stacks.md)
 - [Implementing the Stack Data Structure in Go](./stacks/implementing-stack-data-structure-in-go.md)
+
+## Hash Tables
+
+- [Deep Dive into Hash Tables](./hash-tables/deep-dive-into-hash-tables.md)
