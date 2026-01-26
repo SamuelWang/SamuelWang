@@ -5,6 +5,8 @@
 - [Arrays](./practice/arrays.md)
 - [Linked Lists](./practice/linked-lists.md)
 - [Queues](./practice/queues.md)
+- [Stacks](./practice/stacks.md)
+- [Hash Tables](./practice/hash-tables.md)
 
 ## Problem Solutions
 
