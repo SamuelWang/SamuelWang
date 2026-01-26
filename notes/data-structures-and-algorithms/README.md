@@ -27,3 +27,4 @@
 ## Hash Tables
 
 - [Deep Dive into Hash Tables](./hash-tables/deep-dive-into-hash-tables.md)
+- [Implementing Hash Tables in Go](./hash-tables/implementing-hash-tables-in-go.md)
