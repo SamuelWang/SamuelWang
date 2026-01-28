@@ -3,6 +3,7 @@
 ## Concurrency
 
 - [Understanding Concurrency in Go: A Comprehensive Guide](./concurrency/understanding-concurrency-in-go.md)
+- [Deep Dive: Concurrency Architecture in Golang](./concurrency/deep-dive-into-concurrency-in-go.md)
 
 ## Time
 
