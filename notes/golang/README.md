@@ -1,5 +1,9 @@
 # Golang
 
+## Concurrency
+
+- [Understanding Concurrency in Go: A Comprehensive Guide](./concurrency/understanding-concurrency-in-go.md)
+
 ## Time
 
 - [Wall vs. Monotonic Clocks](./time/wall-vs-monotonic-clocks.md)  
