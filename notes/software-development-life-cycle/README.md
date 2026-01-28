@@ -9,3 +9,4 @@
 - [Practical SRS Example for Collaborative Task Management Application](./requirement-planning-and-analysis/practical-srs-example-for-collaborative-task-management-application.md)  
 - [SRS Document Strategy for Software Versions](./requirement-planning-and-analysis/srs-document-strategy-for-software-versions.md)  
 - [SRS vs. System Analysis: What Belongs?](./requirement-planning-and-analysis/srs-vs-system-analysis.md)  
+- [PRD vs. SRS](./requirement-planning-and-analysis/prd-vs-srs.md)
