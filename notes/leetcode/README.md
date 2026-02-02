@@ -13,6 +13,7 @@
 - [LeetCode 1: Two Sum](./solutions/1-two-sum.md)  
 - [LeetCode 20: Valid Parentheses](./solutions/20-valid-parentheses.md)
 - [LeetCode 121: Best Time to Buy and Sell Stock](./solutions/121-best-time-to-buy-and-sell-stock.md)  
+- [LeetCode 141: Linked List Cycle](./solutions/141-linked-list-cycle.md)
 - [LeetCode 167: Two Sum II - Input Array Is Sorted](./solutions/167-two-sum-ii-input-array-is-sorted.md)  
 - [LeetCode 217: Contains Duplicate](./solutions/217-contains-duplicate.md)  
 - [LeetCode 238: Product of Array Except Self](./solutions/238-product-of-array-except-self.md)  
