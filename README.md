@@ -2,7 +2,8 @@
 
 Hi, I'm a software engineer, I have over a decade of experience in Web development.
 
-Here is my LinkedIn: https://www.linkedin.com/in/samuelwang919/.
+- My Blog: https://blog.brochieh.com/
+- My LinkedIn: https://www.linkedin.com/in/samuelwang919/.
 
 ## Notes
 
