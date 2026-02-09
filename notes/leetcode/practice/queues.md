@@ -66,8 +66,26 @@ These problems move beyond pure algorithms to simulate real-world backend engine
 
 ## Suggested Learning Path
 
-For those new to these concepts, the following order is recommended to build skills progressively:
+Phase 1 — Foundations
 
-1. **Start with LC 933** to understand basic queue syntax and the concept of a rolling window.
-2. **Proceed to LC 994 (Rotting Oranges)** to master grid traversal and edge-case handling in BFS.
-3. **Advance to LC 239** to study the Monotonic Queue optimization pattern.
+- [933. Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/) — rolling-window maintenance; basic enqueue/dequeue.
+- [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) — simulate queue semantics with two stacks.
+- [622. Design Circular Queue](https://leetcode.com/problems/design-circular-queue/) — ring buffer, fixed-size array trade-offs.
+
+Phase 2 — BFS Basics
+
+- [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) — layer-by-layer traversal using a queue.
+- [994. Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) — multi-source BFS and time-step propagation on grids.
+- [1926. Nearest Exit from Entrance in Maze](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/) — shortest path in a grid.
+
+Phase 3 — Sliding Window & Monotonic Queues
+
+- [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) — monotonic deque for O(N) sliding-window maxima.
+- [1438. Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) — track min/max with two deques.
+- [862. Shortest Subarray with Sum at Least K](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/) — prefix sums + monotonic deque.
+
+Phase 4 — Advanced Patterns & Systems
+
+- [127. Word Ladder](https://leetcode.com/problems/word-ladder/) — implicit graph + BFS for shortest transformation.
+- [346. Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/) — streaming/windowed aggregates.
+- [1188. Design Bounded Blocking Queue](https://leetcode.com/problems/design-bounded-blocking-queue/) — concurrency: producer/consumer and blocking semantics.
