@@ -19,6 +19,7 @@ These notes may write by myself or by AI. If the note is wrote by AI, I will rev
 ### Software Development Practices
 
 - [Software Development Life Cycle](./notes/software-development-life-cycle/README.md)  
+- [System Design](./notes/system-design/README.md)
 
 ### Software Engineering
   
