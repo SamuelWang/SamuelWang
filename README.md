@@ -27,7 +27,11 @@ These notes may write by myself or by AI. If the note is wrote by AI, I will rev
 
 ### Infrastructure & DevOps
 
-- [Windows](./notes/windows/README.md)
+- [Windows](./notes/windows/README.md)  
+
+### AI
+
+- [AI Engineering](./notes/ai-engineering/README.md)  
 
 ### Miscellaneous
 
