@@ -12,6 +12,7 @@
 
 - [LeetCode 1: Two Sum](./solutions/1-two-sum.md)  
 - [LeetCode 11: Container With Most Water](./solutions/11-container-with-most-water.md)  
+- [LeetCode 15: 3Sum](./solutions/15-3sum.md)
 - [LeetCode 20: Valid Parentheses](./solutions/20-valid-parentheses.md)
 - [LeetCode 121: Best Time to Buy and Sell Stock](./solutions/121-best-time-to-buy-and-sell-stock.md)  
 - [LeetCode 141: Linked List Cycle](./solutions/141-linked-list-cycle.md)
