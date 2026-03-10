@@ -14,6 +14,7 @@
 - [LeetCode 11: Container With Most Water](./solutions/11-container-with-most-water.md)  
 - [LeetCode 15: 3Sum](./solutions/15-3sum.md)
 - [LeetCode 20: Valid Parentheses](./solutions/20-valid-parentheses.md)  
+- [LeetCode 27: Remove Element](./solutions/27-remove-element.md)  
 - [LeetCode 42: Trapping Rain Water](./solutions/42-trapping-rain-water.md)  
 - [LeetCode 88: Merge Sorted Array](./solutions/88-merge-sorted-array.md)
 - [LeetCode 121: Best Time to Buy and Sell Stock](./solutions/121-best-time-to-buy-and-sell-stock.md)  
